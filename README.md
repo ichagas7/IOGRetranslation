@@ -2,7 +2,11 @@
 
 Copyright 2024-2025 by GaiaLabs  
 https://github.com/Azarem/IOGRetranslation  
-https://github.com/Azarem/GaiaLabs
+https://github.com/Azarem/gaia-core
+
+
+### Attention: Please use the ROM generator site to build a custom version that contains latest bug fixes and changes. The patch releases here may not be latest.
+https://gaiahack.ing
 
 ---
 ## TABLE OF CONTENTS
@@ -196,7 +200,7 @@ At some point, a spreadsheet was created to compile all of the screenshots, tran
 The GaiaLabs tool set for Illusion of Gaia ROM hacking hit the scene and its realization finally became possible. Much like L Thammy's Let's Play, Azarem's personal project would be noticed by others with a love for the game and evolve into a collaborative effort that expanded in scope. It took a long time to get here, but the full depth of Mariko Ouhara's "Gaia Gensouki" can be experienced in "Illusion of Gaia Retranslated."
 
 ---
-The GaiaLabs Toolset and further documentation about its uses can be found at: https://github.com/Azarem/GaiaLabs.
+The GaiaLabs Toolset and further documentation about its uses can be found at: https://github.com/Azarem/gaia-core.
 
 Let's Play on ResetEra Forums (with Translation Notes):
 https://www.resetera.com/threads/lets-play-illusion-of-gaia-but-in-japanese-gaia-gensouki-retranslation-attempt.171584/
