@@ -1,4 +1,4 @@
-﻿?BANK 03
+?BANK 03
 
 ?INCLUDE 'chunk_03BAE1'
 ?INCLUDE 'templates_01CA95'

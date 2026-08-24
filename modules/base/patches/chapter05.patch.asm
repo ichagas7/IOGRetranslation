@@ -89,7 +89,7 @@ widestring_038517 `[TPL:C]Raised the Red Jewel![FIN][TPL:F]The Red Jewel became 
 
 widestring_038C76 `[TPL:E]He quietly started playing[N]the melody that [NAM:6] had[N]taught him.[END]`
 
-widestring_038CDB `[TPL:E]He quietly started playing[N]the melody that [NAM:6] had[N]taught him.[FIN][::][TPL:E]But [LU1:B9]happened.[END]`
+widestring_038CDB `[TPL:E]He quietly started playing[N]the melody that [NAM:6] had[N]taught him.[FIN][::][TPL:E]But nothing happened.[END]`
 
 widestring_038D17 `[TPL:E]When it was done, a voice[N]could suddenly be heard[N]from somewhere…[FIN][TPL:2][TPL:F]Mysterious voice: Please[N]go in front of the switch[N]on the right side of the[N]room.[END]`
 

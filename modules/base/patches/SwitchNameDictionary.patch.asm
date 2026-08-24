@@ -55,7 +55,7 @@ name_game_en          `Statue Game`
 name_friar_en         `Friar`
 name_freedan_en       `Freedan`
 name_freejia_en       `Freejia`
-name_euro_en          `City of`
+name_euro_en          `City of`!
 name_rama_en          `Rama`
 name_kruk_en          `Kruk`
 name_jackal_en        `Jackal`
@@ -173,9 +173,9 @@ widestring_0BF3F4 `[DLG:6,A][SIZ:A,4]Start Journey[N]Erase Trip Diary[N]Copy Tri
 
 widestring_0BF476 `[DLG:2,8][SIZ:E,7]Change Options[N][JMP:&widestring_0BF437+M]`
 
-widestring_0BF538 `[DLG:6,8][SIZ:A,8][SKP:2]Change Options[N]End Changes[N]Names[N][LU2:2]Type[N][SKP:5]   :Attack/Talk[N][SKP:5]   :Item/Cancel[N][SKP:5]   :Item Menu[N][SKP:5]   :Sprint`
+widestring_0BF538 `[DLG:6,8][SIZ:A,8][SKP:2]Change Options[N]End Changes[N]Names[N]Button Type[N][SKP:5]   :Attack/Talk[N][SKP:5]   :Item/Cancel[N][SKP:5]   :Item Menu[N][SKP:5]   :Sprint`
 
-widestring_0BF5AD `[DLG:6,8][SIZ:A,8]Arrangement  OK?[N]Start Journey[N]Names[N][LU2:2]Type[N][SKP:5]   :Attack/Talk[N][SKP:5]   :Item/Cancel[N][SKP:5]   :Item Menu[N][SKP:5]   :Sprint`
+widestring_0BF5AD `[DLG:6,8][SIZ:A,8]Arrangement  OK?[N]Start Journey[N]Names[N]Button Type[N][SKP:5]   :Attack/Talk[N][SKP:5]   :Item/Cancel[N][SKP:5]   :Item Menu[N][SKP:5]   :Sprint`
 
 widestring_0BF625 `[DLG:D,C][SFX:0][ADR:&table_0BF667,D90]`
 

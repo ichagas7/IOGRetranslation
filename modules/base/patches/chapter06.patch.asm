@@ -124,4 +124,4 @@ widestring_04AA20 `[TPL:1][TPL:9][NAM:1]: Ah, you're my[N]friend, right?![FIN][T
 
 widestring_04AA7D `[CLD][TPL:1][TPL:A][NAM:1]: I'm glad, [NAM:0]. Come[N]on, let's hold hands as we[N]go.[FIN][JMP:&widestring_04AAAD+M]`
 
-widestring_04AAAD `[CLD][TPL:2][TPL:A][NAM:2]:[N]I'm [LU1:93][LU1:F0]you.[N][LU1:2B]go.[FIN][::][CLD][TPL:A]Like this, the three[N]headed to [NAM:2]'s[N]village.[END]`
+widestring_04AAAD `[CLD][TPL:2][TPL:A][NAM:2]:[N]I'm going with you.[N]Let's go.[FIN][::][CLD][TPL:A]Like this, the three[N]headed to [NAM:2]'s[N]village.[END]`

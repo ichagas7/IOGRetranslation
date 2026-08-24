@@ -64,10 +64,8 @@ kress_shortcut_accept_str `[CLD][TPL:17][TPL:C]Close your eyes…[END]`
 ?INCLUDE 'scene_actors'
 ------------------------------
 event_def_0CCA02 [
-  event_def < [
-    actor < #05, #0A, #02, @h_player_character >
-    actor < #00, #00, #00, @h_actor_00EAED >
-    actor < #DF, #DF, #00, @head_00E94D >
-    actor < #03, #32, #00, @KressShortcut >
-  ], `` >   ;00
+  actor < #05, #0A, #02, @player_character >
+  actor < #00, #00, #00, @actor_00EAED >
+  actor < #DF, #DF, #00, @actor_00E94D >
+  actor < #03, #32, #00, @KressShortcut >
 ]

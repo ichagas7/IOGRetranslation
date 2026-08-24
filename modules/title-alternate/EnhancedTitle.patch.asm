@@ -18,7 +18,7 @@ asciistring_01DA5E |[NHM:0][CUR:9C,3]RETRANSLATED[NHM:0][CUR:08,6](C) 1994  QUIN
 ?INCLUDE 'scene_meta'
 ------------------------------------------------
 
-entry_FC [
+mapdef_00FC [
   ppu < #25 >
   music < #1F, #00, @bgm_illusion_of_gaia >
   bitmap < #00, #20, #00, @gfx_title, #00 >
@@ -47,7 +47,7 @@ thinker_0CEB2F [
 ?INCLUDE 'sFC_actor_0BC924'
 ------------------------------------------------
 
-e_sFC_actor_0BC924 {
+code_0BC927 {
     LDA #$4001
     TSB $09EC
     LDA #$0000
@@ -131,8 +131,8 @@ code_0BC988 {
 ------------------------------------------------
 ;Immediate start press
 
-e_sFC_actor_0BC9AE {
-    BRA e_sFC_actor_0BC9BD
+code_0BC9B1 {
+    BRA code_0BC9C0
 }
 
 

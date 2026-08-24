@@ -90,7 +90,7 @@ widestring_08B052 `[TPL:1F][TPL:9][DLY:2]Whoa, a score of [BCD:3,AAC]![N]You're 
 
 widestring_08B025 `[TPL:1F][TPL:A][DLY:2]Okay…! Time to stop…! The[N]number you struck was [BCD:3,AAC].[N]Please play again![END]`
 
-widestring_08B0B3 `[TPL:A][LU1:67]hit [BCD:3,AAC] snakes.[N]Try again![END]`
+widestring_08B0B3 `[TPL:A]You've hit [BCD:3,AAC] snakes.[N]Try again![END]`
 ;TODO!!
 
 -------------------------------------

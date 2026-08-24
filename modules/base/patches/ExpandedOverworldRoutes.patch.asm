@@ -73,7 +73,7 @@ dao_euro_warp {
     COP [C5]
 }
 
-widestring_03B7F6 `[TPL:11][SFX:0] [LU1:42]       [LU1:3F][N] Euro City   Natives' Vil.`
+widestring_03B7F6 `[TPL:11][SFX:0] Quit        Pyramid[N] Euro City   Natives' Vil.`
 
 -----------------
 ;Euro to Dao
@@ -145,7 +145,7 @@ code_list_03B526 [
   &code_03B985
 ]
 
-widestring_03B52C `[TPL:11][SFX:0] Quit        South Cape[N] [LU1:1E]Ruins`
+widestring_03B52C `[TPL:11][SFX:0] Quit        South Cape[N] Inca Ruins`
 
 
 ------------------------------------------

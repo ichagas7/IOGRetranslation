@@ -86,7 +86,7 @@ widestring_0594B8 `[PAU:50][TPL:0][TPL:8][NAM:0]: M-mom…!?[FIN][TPL:2][TPL:9][
 
 widestring_0595B4 `[CLR]Is that how it is… Well,[N]then I'll pray that the[N]misfortune doesn't visit,[N]okay…?[FIN][JMP:&widestring_0595E6+M]`
 
-widestring_0595E6 `[CLR]All right…[N]Then [LU2:71][LU1:D7]happiness[N][LU1:84]slip away….[FIN][::]My dear [NAM:0]. You know,[N]I'll always be watching[N]over you.[END]`
+widestring_0595E6 `[CLR]All right…[N]Then hope that happiness[N]doesn't slip away….[FIN][::]My dear [NAM:0]. You know,[N]I'll always be watching[N]over you.[END]`
 
 ---------------------------------------
 ?INCLUDE 'gs2D_lily'

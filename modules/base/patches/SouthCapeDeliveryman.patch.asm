@@ -1,4 +1,4 @@
-﻿?BANK 0A
+?BANK 0A
 
 
 --------------------------------------------
@@ -60,7 +60,7 @@ skyd_str_freejia  `[CLR]Come here, birds.[N]We're taking this person[N]to [NAM:1
 ?INCLUDE 'scene_meta'
 -----------------------------------------------
 
-entry_01 [
+mapdef_0001 [
   ppu < #03 >   ;00
   music < #1C, #00, @bgm_lively_city_by_the_sea >   ;01
   bitmap < #00, #10, #00, @gfx_southcape, #00 >   ;02
@@ -70,7 +70,7 @@ entry_01 [
   tileset < #00, #20, #00, #02, @set_southcape_effect >   ;06
   tilemap < #01, @map_sc01 >   ;07
   tilemap < #02, @map_sc01_effect >   ;08
-  label < #3E >   ;09
+  label_3E:   ;09
   bitmap < #00, #10, #10, @gfx_southcape_sprites, #01 >   ;0A
   palette < #20, #80, #A0, @pal_southcape_sprites >   ;0B
   spritemap < #$18B5, #00, @spm_southcape_sprites >   ;0C

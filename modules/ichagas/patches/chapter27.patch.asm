@@ -63,7 +63,7 @@ widestring_07CAB0 `[TPL:1E][TPL:D]Essa cidade tem muitos[N]becos estreitos.[FIN]
 widestring_07E4D3 `[TPL:1E][TPL:F]Esse é um livro escrito[N]pelo grande Rofsky. Ele[N]fala sobre o futuro da[N]humanidade.[END]`
 
 -------------------------------------
-?INCLUDE 'eu91_merchants'
+?INCLUDE 'eu91_merchant'
 -------------------------------------
 widestring_07C337 `[TPL:1E][TPL:E]Ei! Você não deveria estar[N]aqui. Clientes tem que[N]ficar do outro lado![END]`
 widestring_07C38F `[TPL:1E][TPL:E]Ei! Você não deveria estar[N]aqui. Clientes tem que[N]ficar do outro lado![END]`

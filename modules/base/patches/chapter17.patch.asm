@@ -45,7 +45,7 @@ widestring_05F148 `[TPL:2][TPL:D][NAM:2]: Aaaaaaaaaaah…!![N]I've got it…!![E
 
 widestring_05F160 `[PAU:28][TPL:2][TPL:E][DLY:0]Look, look…! The location[N]of the stones on the[N]surface of the ground…!![FIN][TPL:F]They're definitely in the[N]positions of the stars in[N]the constellation of[N]Cygnus…![END]`
 
-widestring_05EB2E `[TPL:6][TPL:E][LU1:36][N][LU2:3E][LU2:AC][LU1:6B]it [LU1:F6][N][LU1:89]comes back. [FIN][::][TPL:6][TPL:C][DLY:0]Neil: That's it…![FIN][TPL:F]There are nine stars in[N]the constellation of[N]Cygnus, and there are also[N]nine stones…[FIN]`
+widestring_05EB2E `[TPL:6][TPL:E]Neil: [N]we'll talk about it when[N]everyone comes back.[FIN][::][TPL:6][TPL:C][DLY:0]Neil: That's it…![FIN][TPL:F]There are nine stars in[N]the constellation of[N]Cygnus, and there are also[N]nine stones…[FIN]`
 
 widestring_05EB94 `[CLR][TPL:0][TPL:F]In that case, where would[N]the red star that we've[N]started seeing recently[N]be…?[FIN][PAL:0] The condor's head[N] The condor's right leg[N] The condor's left leg[N] The condor's tail[PAL:4]`
 

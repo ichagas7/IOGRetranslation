@@ -377,7 +377,7 @@ write_sprite {
 ------------------------------
 ?INCLUDE 'pr8C_prologue1'
 ------------------------------
-e_pr8C_prologue1 {
+code_0BCA05 {
     LDA #$0800
     STA $064A
     COP [D0] ( #F4, #00, &code_0BCAAF )
@@ -471,7 +471,7 @@ spritestring_0BD06D ~~
 ------------------------------
 ?INCLUDE 'pr8D_prologue2'
 ------------------------------
-e_pr8D_prologue2 {
+code_0BCB51 {
     SEP #$20
     STZ $M7SEL
     REP #$20
@@ -563,7 +563,7 @@ code_0BCC08 {
 ------------------------------
 ?INCLUDE 'pr8E_prologue3'
 ------------------------------
-e_pr8E_prologue3 {
+code_0BCD4E {
     LDA #$4001
     TSB $09EC
     COP [50] ( @pal_prologue_missing, #00, #00, #20 )
@@ -630,7 +630,7 @@ e_pr8E_prologue3 {
 ------------------------------
 ?INCLUDE 'pr8F_prologue4'
 ------------------------------
-e_pr8F_prologue4 {
+code_0BCE36 {
     LDA #$4001
     TSB $09EC
     COP [50] ( @pal_prologue_mishap, #00, #00, #20 )
@@ -662,7 +662,7 @@ e_pr8F_prologue4 {
 ------------------------------
 ?INCLUDE 'pr8C_prologue5'
 ------------------------------
-e_pr8C_prologue5 {
+code_0BCE7C {
     COP [D0] ( #F4, #01, &code_0BCEBB )
     --COP [A0] ( @code_0BCF8F, #$0038, #$0038, #$2000 )
     --LDA #$&spritestring_0BD272

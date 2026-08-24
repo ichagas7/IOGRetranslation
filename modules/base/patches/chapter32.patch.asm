@@ -67,7 +67,7 @@ widestring_08CB2C `[TPL:0][TPL:D]An engraved slate is[N]stored in the wall.[FIN]
 -------------------------------------
 ?INCLUDE 'chunk_038000'
 -------------------------------------
-widestring_039C8B `[DEF]There's no [LU2:90]to put[N]the [LU1:9E]plate.[PAL:0][END]`
+widestring_039C8B `[DEF]There's no place to put[N]the hieroglyph plate.[PAL:0][END]`
 
 -------------------------------------
 ?INCLUDE 'pyCD_jackal'
@@ -106,7 +106,7 @@ widestring_08BEA9 `[TPL:1][TPL:9][DLY:0][NAM:1]: I'm sorry…[N]I lost my compos
 
 widestring_08BF8F `[TPL:1][TPL:B]The song that you played[N]just now turned out to be[N][NAM:16]'s funeral[N]dirge, didn't it…[END]`
 
-widestring_039BA5 `[DEF][TPL:0]There are six hollows [N][LU1:F4]a tile can fit. [FIN]Put it where?[N] 1st [LU1:8E]L. 4th [LU1:8E]L.[N] 2nd [LU1:8E]L. 5th [LU1:8E]L.[N] 3rd [LU1:8E]L. 6th [LU1:8E]L.`
+widestring_039BA5 `[DEF][TPL:0]There are six hollows[N]where a tile can fit. [FIN]Put it where?[N] 1st from L. 4th from L.[N] 2nd from L. 5th from L.[N] 3rd from L. 6th from L.`
 
 widestring_039C39 `[CLR][TPL:0]Inserted the hieroglyph[N]slate into the[N]indentation![END]`
 

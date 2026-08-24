@@ -8,15 +8,11 @@
 ?INCLUDE 'fr32_locked_door'
 -------------------------------------------
 
-h_fr32_locked_door [
-  h_actor < #01, #00, #18 >   ;00
-]
-
-fr32_locked_door_return {
+code_05CFBF- {
     COP [D0] ( #slave_captured_flag, #01, &locked_door_normal )
     COP [D0] ( #dao_return_flag, #01, &locked_door_normal )
     COP [D1] ( #$slave_reward_flag, #01, &locked_door_normal )
-    BRA e_fr32_locked_door
+    BRA code_05CFBF
 
   locked_door_normal:
     LDA #&town_door+3
@@ -30,7 +26,7 @@ fr32_locked_door_return {
 ?INCLUDE 'fr3A_sympathetic'
 -------------------------------------------
 
-e_fr3A_sympathetic {
+code_05C311 {
     COP [D0] ( #slave_captured_flag, #01, &code_05C325 )
     COP [D1] ( #$slave_reward_flag, #01, &code_05C325 )
     LDA #$0200
@@ -84,15 +80,8 @@ freejia_slave_farewell_str  `[TPL:20][TPL:A]I suppose I should be[N]taking off n
 ?INCLUDE 'fr3A_harborer'
 -------------------------------------------
 
-h_fr3A_harborer [
-  h_actor < #02, #00, #10 >   ;00
-]
-
-freejia_harborer_logic {
+code_05BC59 {
     COP [D0] ( #dao_return_flag, #01, &freejia_harborer_stub )
-}
-
-e_fr3A_harborer {
     COP [D0] ( #slave_captured_flag, #01, &code_05BC68 )
   freejia_harborer_stub:
     COP [C0] ( &code_05BC6A )
@@ -135,7 +124,7 @@ freejia_harborer_rumor_str   `[TPL:20][TPL:B]Rumor has it that the new[N]preside
 ?INCLUDE 'fr32_slaver1'
 -------------------------------------------
 
-e_fr32_slaver1 {
+code_05B819 {
     COP [D0] ( #slave_captured_flag, #01, &code_05B839 )
     COP [D0] ( #dao_return_flag, #01, &code_05B839 )
     COP [D1] ( #$slave_reward_flag, #01, &code_05B839 )
@@ -147,7 +136,7 @@ e_fr32_slaver1 {
 ?INCLUDE 'fr32_slaver2'
 -------------------------------------------
 
-e_fr32_slaver2 {
+code_05B855 {
     COP [D0] ( #slave_captured_flag, #01, &code_05B87E )
     COP [D0] ( #dao_return_flag, #01, &code_05B87E )
     COP [D1] ( #$slave_reward_flag, #01, &code_05B87E )

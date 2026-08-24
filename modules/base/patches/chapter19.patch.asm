@@ -124,7 +124,7 @@ widestring_068EA9 `[TPL:16][TPL:E]I snatched a key from the[N]vampire woman. Bri
 
 widestring_068ED4 `[TPL:C][SFX:0][DLY:9]Got the seabed palace key![PAU:78][END]`
 
-widestring_068F02 `[DEF]I stole a key [LU1:8E]the[N][LU2:BE]woman. I'd like[N]to [LU1:97]it to you, but[N][LU1:FE]inventory's full...[END]`
+widestring_068F02 `[DEF]I stole a key from the[N]vampire woman. I'd like[N]to give it to you, but[N]your inventory's full...[END]`
 
 widestring_068F53 `[TPL:16][TPL:12]It seems like there is a[N]passage that leads to the[N]continent of Mu at the[N]highest floor of the[N]palace.[END]`
 

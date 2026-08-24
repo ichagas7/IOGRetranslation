@@ -49,7 +49,7 @@ lances_father_inv_full_str  `[TPL:3][TPL:A]Boy, you sure are a heavy[N]adventure
 ?INCLUDE 'chunk_038000'
 ---------------------------------------------------
 
-widestring_03944D `[DEF]He [LU2:8B]Lance's father's[N]journal. [FIN]Read which entry? [N] Tower of Babel [N] Mystic Statues [N] [LU1:16]Wall of China `
+widestring_03944D `[DEF]He opened [NAM:4]'s father's[N]journal. [FIN]Read which entry? [N] Tower of Babel [N] Mystic Statues [N] Great Wall of China `
 
 widestring_0394B5 `[DEF]He closes the journal. [END]`
 
@@ -57,4 +57,4 @@ widestring_0394CE `[DEF]The Tower of Babel...[END]`
 
 widestring_0394E5 `[DEF]The Mystic Statues... [END]`
 
-widestring_0394FD `[DEF]The [LU1:16]Wall...[END]`
+widestring_0394FD `[DEF]The Great Wall...[END]`

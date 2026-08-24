@@ -59,6 +59,10 @@ widestring_06D039 `[TPL:3][TPL:8]............[END]`
 
 widestring_06D278 `[TPL:0][TPL:9]Tim: Preciso espalhar o Pó[N]Mágico no quadro primeiro…[END]`
 
+----------------------------------
+?INCLUDE 'chunk_038000'
+----------------------------------
+
 widestring_0393C5 `[TPL:D]Tim tenta usar[N]o Pó Mágico.[FIN]`
 
 widestring_0393EA `[CLD][TPL:C]Mas nada acontece![END]`

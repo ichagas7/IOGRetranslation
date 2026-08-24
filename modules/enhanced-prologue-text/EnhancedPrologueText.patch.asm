@@ -98,7 +98,7 @@ e_pr_thinker_0BD039 {
 ----------------------------------------------
 ;Set default colors for world map (enhances font profile)
 
-e_sFE_proc_03A940 {
+code_03A942 {
     SEP #$20
     LDA #$80
     STA $M7SEL

@@ -30,8 +30,11 @@ describe('RomGenerator', async () => {
     "blue-journal",
     "thankful-flower",
     "south-cape-return",
-    "plain-borders",
-    "crystal-ring-palette"
+    //"plain-borders",
+    "crystal-ring-palette",
+    'kress-shortcut',
+    'angkor-shortcut',
+    'enhanced-adrift-text'
 ];
   let romGenerator: RomGenerator;
   

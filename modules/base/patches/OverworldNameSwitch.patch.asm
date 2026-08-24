@@ -121,7 +121,7 @@ spritestring_03B3F2 ~Tower of Babel~
 ?INCLUDE 'sFE_actor_03A2F1'
 ---------------------------------------------
 
-sub_03A692 {
+code_03A692 {
     PHP 
     PHX 
     LDX #$0000

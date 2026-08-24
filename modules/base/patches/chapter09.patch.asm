@@ -39,7 +39,7 @@ widestring_09C5D5 `[TPL:0][TPL:F]The wind of the valley is[N]playing some melody
 
 widestring_09C614 `[TPL:D]Memorized the Wind's[N]Melody![END]`
 
-widestring_09C637 `[DLG:3,11][SIZ:D,3]You can [LU1:9B]the [LU1:34][N]of the Wind. But [LU1:FE][N][LU1:A0]is full. [END]`
+widestring_09C637 `[DLG:3,11][SIZ:D,3]You can hear the Melody[N]of the Wind. But your[N]inventory is full.[END]`
 
 ---------------------------------------
 ?INCLUDE 'ir28_bones'
@@ -51,7 +51,7 @@ widestring_09C8B3 `[TPL:0][TPL:E]Could this be an explorer[N]seeking the Incan g
 ---------------------------------------
 widestring_09C90D `[TPL:0][TPL:E]The corpse seems to be[N]holding something like a[N]notebook…[FIN][CLD][BOR:1][DLG:3,4][SIZ:D,7]  Learnings on the Inca[N]Writing does not exist in[N]the Incan region. For that[N]purpose, it seems that[N]legends are preserved for[N]future generations by[N]sound.[FIN][DLG:3,4][SIZ:D,8]I noticed that the Incan[N]valley wind plays a[N]melody; I succeeded at[N]decoding it. "Recite it in[N]the room tiled in gold…ˮ[N]If you were to play the[N]melody played by the[N]valley wind there…[END]`
 
-widestring_038A2B `[DEF]He [LU2:A1]played[N]the [LU2:3D]Melody.[END]`
+widestring_038A2B `[DEF]He softly played[N]the Wind Melody.[END]`
 
 widestring_038A46 `[TPL:F]In the vicinity where the[N]flute's sound was echoing,[N]a golden block began to[N]shine![END]`
 

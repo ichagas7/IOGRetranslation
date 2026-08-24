@@ -58,6 +58,10 @@ widestring_06D039 `[TPL:3][TPL:8]…[END]`
 
 widestring_06D278 `[TPL:0][TPL:A][NAM:0]: I need to sprinkle[N]the magic powder to start[N]with…[END]`
 
+----------------------------------
+?INCLUDE 'chunk_038000'
+----------------------------------
+
 widestring_0393C5 `[TPL:D]Tried using the magic[N]powder.[FIN]`
 
 widestring_0393EA `But nothing happened![END]`

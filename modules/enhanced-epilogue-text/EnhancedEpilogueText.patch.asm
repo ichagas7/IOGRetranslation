@@ -10,7 +10,7 @@
 ------------------------------------
 ;Do not change the blending modes for this scene (89)
 
-e_s89_new_babel {
+code_0BE02C {
     LDA #$FFF0
     TSB $joypad_mask_std
     LDA #$4001
@@ -42,7 +42,7 @@ e_s89_new_babel {
 ------------------------------------
 
 ;Make the map scene load original fonts for BG3
-entry_90 [
+mapdef_0090 [
   ppu < #1D >   ;00
   bitmap < #00, #20, #00, @gfx_ending_world, #00 >   ;01
   bitmap < #00, #20, #00, @gfx_fonts, #02 >   ;02
@@ -54,7 +54,7 @@ entry_90 [
 ]
 
 ;Make the comet scene load the credits font (no borders)
-entry_E5 [
+mapdef_00E5 [
   ppu < #25 >   ;00
   music < #0E, #00, @bgm_longing_for_the_past >   ;01
   bitmap < #00, #20, #00, @gfx_ending_comet, #00 >   ;02

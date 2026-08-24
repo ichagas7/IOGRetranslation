@@ -201,7 +201,7 @@ increment_map {
     LDA $0D6F
     AND #$00FF
     STA $0000
-    JSR $&sub_03A692
+    JSR $&code_03A692
     COP [4F] ( $7EA000, #$5000, #$0800 )
     COP [9A] ( @code_03A246, #$3001 )
     COP [63] ( #00, #07, #00 )
@@ -225,7 +225,7 @@ increment_map {
     LDA $0D6E
     AND #$00FF
     STA $0000
-    JSR $&sub_03A692
+    JSR $&code_03A692
     COP [4F] ( $7EA000, #$5000, #$0800 )
     COP [9C] ( @code_03A246, #$1001 )
     COP [DA] ( #3B )
@@ -271,7 +271,7 @@ code_03A246 {
     COP [89]
     COP [CB]
     COP [A8]
-    COP [99] ( @func_03A52F )
+    COP [99] ( @code_03A52F )
     BRA loc_03A497
     
   loc_03A644:
@@ -289,7 +289,7 @@ code_03A246 {
     STA $scene_next
     LDA $0D6C
     STA $0652
-    JSR $&sub_03A681
+    JSR $&code_03A681
     COP [C1]
     COP [64]
     LDA $7F002E, X

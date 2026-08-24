@@ -18,7 +18,8 @@ widestring_05B16F `[TPL:1][TPL:D][NAM:1]: Então essa é a[N]pousada…[FIN][CLD
 widestring_05B2D3 `[TPL:20][TPL:D]Venham, podem entrar.[N]Fiquem à vontade![END]`
 
 --------------------------------------
-?INCLUDE 'fr39_lily_kara'
+?INCLUDE 'fr39_lily'
+?INCLUDE 'fr39_kara'
 --------------------------------------
 widestring_05C654 `[TPL:2][TPL:9][NAM:2]: Bem-vind--[N][WAI]Espera…[WAI][NAM:0]?! [NAM:1]?![END]`
 

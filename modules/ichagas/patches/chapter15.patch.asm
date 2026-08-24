@@ -15,7 +15,8 @@ widestring_05CA69 `[TPL:4][TPL:9][NAM:4]: Hã? O que eu andei[N]fazendo até ago
 widestring_05CAEC `[TPL:4][TPL:A][NAM:4]: Desculpa, galera.[N]Fiz todo mundo sofrer por[N]minha causa.[FIN][TPL:A]Da próxima vez que alguém[N]passar por isso, vou estar[N]lá pra cuidar.[END]`
 
 -------------------------------------
-?INCLUDE 'fr39_lily_kara'
+?INCLUDE 'fr39_lily'
+?INCLUDE 'fr39_kara'
 -------------------------------------
 widestring_05C597 `[TPL:1][TPL:9][NAM:1]: Me deu até vontade[N]de chorar…[END]`
 

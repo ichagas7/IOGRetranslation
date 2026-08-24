@@ -26,7 +26,7 @@ widestring_099A91 `[TPL:0][TPL:A]T-this is the Crystal Ring[N]that King Edward w
 
 widestring_099AE4 `[TPL:8][DLY:9]Got the Crystal Ring![PAU:78][END]`
 
-widestring_099AFE `[CLR][TPL:0]But [LU1:FE]inventory[N]is full![PAL:0][END]`
+widestring_099AFE `[CLR][TPL:0]But your inventory[N]is full![PAL:0][END]`
 
 ;Crystal Ring / A ring that was fit into the flute
 
@@ -45,7 +45,7 @@ widestring_099F2A `[TPL:0][TPL:8][DLY:0][NAM:0]: [NAM:1]!?[FIN][TPL:1][TPL:8][NA
 -------------------------------------
 ?INCLUDE 'btDF_spirits'
 -------------------------------------
-widestring_099B8F `[TPL:17][TPL:B]The [LU1:A8]released[N][LU1:8E]the [LU1:7B]has a[N]profound effect on the[N]growth of [LU1:B1]things.[FIN][LU1:61]the star nears[N][LU2:B]orbit, all[N][LU1:B1][LU1:E0]experience[N]a dramatic evolution...[END]`
+widestring_099B8F `[TPL:17][TPL:B]The light released[N]from the comet has a[N]profound effect on the[N]growth of living things.[FIN]When the star nears[N]Earth's orbit, all[N]living things experience[N]a dramatic evolution...[END]`
 ;The comet emits an intense light that has a large influence on how living things develop.
 ;INCOMPLETE?!
 

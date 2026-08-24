@@ -65,7 +65,7 @@ widestring_07CAB0 `[TPL:1E][TPL:D]There are a lot of narrow[N]back alleys in thi
 widestring_07E4D3 `[TPL:1E][TPL:F]It's a book by a person[N]named Rofski. It holds[N]predictions about the[N]future of humanity.[END]`
 
 -------------------------------------
-?INCLUDE 'eu91_merchants'
+?INCLUDE 'eu91_merchant'
 -------------------------------------
 widestring_07C337 `[TPL:1E][TPL:F]Hey, hey, you mustn't come[N]on this side. Customers[N]should go to the[N]opposite side…![END]`
 widestring_07C38F `[TPL:1E][TPL:F]Hey, hey, you mustn't come[N]on this side. Customers[N]should go to the[N]opposite side…![END]`
@@ -92,7 +92,7 @@ widestring_07C1B6 `[TPL:1E][TPL:E]This is cornmeal. You can[N]use it when making
 
 widestring_07C160 `[TPL:1E][TPL:F]This is wine. It might be[N]a little too soon for a[N]little boy like to you[N]have, I'd think.[END]`
 
-widestring_07CB60 `[DEF]I saw that. There are [N][LU1:B6][LU1:C1]confined [N][LU1:EA]the school. [END]`
+widestring_07CB60 `[DEF]I saw that. There are[N]many people confined[N]under the school.[END]`
 ;UNUSED!!
 
 widestring_07CAE0 `[TPL:1E][TPL:E]I saw… A lot of people[N]imprisoned in the basement[N]of the chapel…[END]`
@@ -269,6 +269,6 @@ widestring_07E19D `[TPL:1][TPL:9]Ann: Take good care of[N][NAM:1], alright…?[E
 -------------------------------------
 ?INCLUDE 'eu93_found'
 -------------------------------------
-widestring_07E531 `[DEF]You [LU1:8F]it [LU2:74]I[N][LU1:E9][LU1:FE]wishes.[N][LU1:1F][LU1:97]you the power[N]at once.[END]`
+widestring_07E531 `[DEF]You found it here. I[N]understand your wishes.[N]I'll give you the power[N]at once.[END]`
 
-widestring_07E566 `[DEF][LU1:63]go.[END]`
+widestring_07E566 `[DEF]Well, go.[END]`

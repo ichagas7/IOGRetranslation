@@ -13,7 +13,7 @@ code_08B6C6 {
     LDA $0010, Y
     ORA #$2000
     STA $0010, Y
-    COP [9C] ( @e_py_actor_08B6F4, #$1800 )
+    COP [9C] ( @code_08B6F7, #$1800 )
     LDA #$0303
     STA $0648
     LDA #$0303

@@ -39,7 +39,7 @@ widestring_08EE8B `Earthquaker is a Power of[N]Darkness that can only be[N]used 
 ?INCLUDE 'awBA_bones'
 -------------------------------------
 ;INCOMPLETE?
-widestring_08A289 `[TPL:0][TPL:F]The bones of a [LU2:7A][N][LU1:8A]fascinated by [N]something...? [FIN]Something like a journal[N]is under their arm…[N][PAL:0] Try to read it[N] Leave it be`
+widestring_08A289 `[TPL:0][TPL:F]The bones of a lost[N]explorer fascinated by [N]something...?[FIN]Something like a journal[N]is under their arm…[N][PAL:0] Try to read it[N] Leave it be`
 ;Something that looks like a journal has fallen under their arm… / Try to read it / Leave it be
 
 widestring_08A2EC `[CLD][TPL:1E][BOR:1][DLG:3,D][SIZ:D,6] [N]        Angkor Wat[N]    Examination Record[N] [N]         -Friesel[FIN]Angkor Wat is a temple[N]where gods are said to[N]live. I finally arrived at[N]the main building; in the[N]second floor is an area[N]filled with light.[FIN]You have to pass through[N]there to meet with the[N]gods at the highest floor,[N]but I can't; the light in[N]the passage is too strong[N]to see anything.[FIN]There is also a legend[N]that glasses made from[N]black quartz were once[N]used to meet with the[N]gods.[FIN]I momentarily caught sight[N]of a shining black thing[N]on the ground when I was[N]around the central hall[N]leading down to the main[N]building.[FIN]But demons were in my way,[N]so I had to escape.[N]Perhaps the legendary[N]glasses were there…[FIN]It's a shame that it[N]turned out this way even[N]though I came all the way[N]here… I pray that my child[N]follows in my footsteps…[END]`

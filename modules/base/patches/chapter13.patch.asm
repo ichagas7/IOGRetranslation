@@ -18,10 +18,13 @@ widestring_05B16F `[TPL:1][TPL:E][NAM:1]: That's what the[N]innkeeper here said.
 widestring_05B2D3 `[TPL:20][TPL:D]Well, please, come in,[N]come in.[END]`
 
 --------------------------------------
-?INCLUDE 'fr39_lily_kara'
+?INCLUDE 'fr39_lily'
 --------------------------------------
 widestring_05C654 `[TPL:2][TPL:8][NAM:2]: Welco-[FIN][NAM:0] and [NAM:1]…?![END]`
 
+--------------------------------------
+?INCLUDE 'fr39_kara'
+--------------------------------------
 widestring_05C4CD `[TPL:1][TPL:9][NAM:1]: [NAM:2]? Is that[N][NAM:2]…?![FIN][TPL:2][TPL:9][NAM:2]: I was worried…![FIN][TPL:A]We've had been split up[N]for nearly a month, after[N]all!![FIN]I'm been employed as a[N]live-in worker for this[N]innkeeper.[FIN][::][TPL:2][TPL:A][NAM:4] is in the room on[N]the right, so I'll go[N]there with you…[END]`
 
 widestring_05C571 `[TPL:1][TPL:B][NAM:1]: Although we were[N]about to say that we had[N]finally met safely, this[N]is how it is…[END]`
@@ -97,7 +100,7 @@ widestring_05BE24 `[TPL:20][TPL:F]Whee… *Hic*… Living your[N]life seriously,
 --------------------------------------
 ?INCLUDE 'fr32_hp_jewel'
 --------------------------------------
-widestring_05CFA7 `[TPL:C]You [LU1:8F]the HP jewel![END]`
+widestring_05CFA7 `[TPL:C]You found the HP jewel![END]`
 
 --------------------------------------
 ?INCLUDE 'fr32_slaver1'
